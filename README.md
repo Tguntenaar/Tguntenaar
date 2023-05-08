@@ -2,7 +2,7 @@
 
 <!-- Link your stats: https://github.com/Tguntenaar/github-stats -->
 ![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
-![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
 I'm a tech optimistic full stack native developer working in the web3 space. Reach out to me if you want to have a chat!
 
