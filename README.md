@@ -1,5 +1,10 @@
 # Hi there, how are you? 👋
 
+![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
+![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+[link your stats](https://github.com/Tguntenaar/github-stats)
+
 I'm a tech optimistic full stack native developer working in the web3 space. Reach out to me if you want to have a chat!
 
 You can reach me by email 📫: thomasguntenaar@gmail.com. After that we can exchange other ways of communication 💬.
