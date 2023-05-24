@@ -34,7 +34,7 @@ As an enthusiastic learner, I am always seeking new opportunities to expand my k
 
 
 <!-- Link your stats: https://github.com/Tguntenaar/github-stats -->
-These stats don't seem to reflect my contributions yet, I still need to configure them. However I like them visually for the time being.
+<!-- These stats don't seem to reflect my contributions yet, I still need to configure them. However I like them visually for the time being. -->
 
-![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
-![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/overview.svg#gh-dark-mode-only)  -->
+<!-- ![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
