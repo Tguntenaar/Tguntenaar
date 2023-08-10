@@ -8,6 +8,8 @@ Besides coding, my interests lie in space travel and everything related to it. A
 
 If you are running a lightning node ⚡ and want to open more channels then lfg. If not [look into it](https://docs.theroadtonode.com/) :)
 
+- 🔭 I’m currently working on [Near Social's DevHub](https://near.social/devgovgigs.near/widget/gigs-board.pages.Feed)
+- 🌱 I’m currently learning Rust
 <!--
 **Tguntenaar/Tguntenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,5 +38,5 @@ As an enthusiastic learner, I am always seeking new opportunities to expand my k
 <!-- Link your stats: https://github.com/Tguntenaar/github-stats -->
 <!-- These stats don't seem to reflect my contributions yet, I still need to configure them. However I like them visually for the time being. -->
 
-<!-- ![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/overview.svg#gh-dark-mode-only)  -->
-<!-- ![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
+![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
