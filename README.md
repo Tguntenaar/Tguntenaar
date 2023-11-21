@@ -1,15 +1,16 @@
 # Hi there, how are you? 👋
 
-I'm a tech optimistic full stack native developer working in the web3 space. Reach out to me if you want to have a chat! As an enthusiastic learner, I am always seeking new opportunities to expand my knowledge and skills.
+I'm a tech optimistic full stack native developer working on React Native and Near applications. Reach out to me if you want to have a chat! As an enthusiastic learner, I am always seeking new opportunities to expand my knowledge and skills.
 
 Feel free to contact me via [email](mailto:thomasguntenaar@gmail.com)📫, and we can discuss other ways to communicate further if needed 💬.
 
-Besides coding, my interests lie in space travel and everything related to it. Additionally, I enjoy staying active and am currently learning kickboxing
+Besides coding, my interests lie in space travel, skydiving and other extreme sports. Additionally, I enjoy staying active and am currently learning kickboxing
 
-If you are running a lightning node ⚡ and want to open more channels then lfg. If not [look into it](https://docs.theroadtonode.com/) :)
+If you are running a lightning node ⚡ and want to open more channels, let me know!
 
-- 🔭 I’m currently working on [Near Social's DevHub](https://near.social/devgovgigs.near/widget/gigs-board.pages.Feed)
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on [Near Social's DevHub](https://near.social/devgovgigs.near/widget/gigs-board.pages.Feed) and multiple mobile applications
+- 🌱 I’m currently learning Rust and Flutter
+- 
 <!--
 **Tguntenaar/Tguntenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
