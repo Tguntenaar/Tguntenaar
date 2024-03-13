@@ -1,16 +1,19 @@
-# Hi there, how are you? 👋
+## Hey there! How's everything going? 👋
 
-I'm a tech optimistic full stack native developer working on React Native and Near applications. Reach out to me if you want to have a chat! As an enthusiastic learner, I am always seeking new opportunities to expand my knowledge and skills.
+I'm a tech enthusiast and full-stack native developer specializing in React Native and Near applications. Whether you're interested in discussing the latest tech trends or exploring potential collaboration opportunities, feel free to reach out! I'm always eager to connect and learn from others.
 
-Feel free to contact me via [email](mailto:thomasguntenaar@gmail.com)📫, and we can discuss other ways to communicate further if needed 💬.
+You can easily get in touch with me via email 📫, and we can explore alternative communication methods if necessary 💬.
 
-Besides coding, my interests lie in space travel, skydiving and other extreme sports. Additionally, I enjoy staying active and am currently learning kickboxing
+Outside of coding, I'm passionate about space exploration, skydiving, and other adrenaline-pumping sports. Plus, I'm currently delving into the world of kickboxing to stay active and energized.
 
-If you are running a lightning node ⚡ and want to open more channels, let me know!
+If you're involved in running a lightning node ⚡ and looking to expand your network, don't hesitate to give me a shout!
 
-- 🔭 I’m currently working on [Near Social's DevHub](https://near.social/devgovgigs.near/widget/gigs-board.pages.Feed) and multiple mobile applications
-- 🌱 I’m currently learning Rust and Flutter
-- 
+Here's a glimpse into what I'm up to lately:
+
+🔭 Currently, I'm immersed in the development of Near Social's DevHub platform and Near's ecosystem.
+🌱 I'm also diving into Rust to broaden my skill set.
+⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](fullforce.io)
+
 <!--
 **Tguntenaar/Tguntenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
