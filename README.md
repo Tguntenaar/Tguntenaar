@@ -10,9 +10,9 @@ If you're involved in running a lightning node ⚡ and looking to expand your ne
 
 Here's a glimpse into what I'm up to lately:
 
-🔭 Currently, I'm immersed in the development of Near Social's DevHub platform and Near's ecosystem.
-🌱 I'm also diving into Rust to broaden my skill set.
-⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](fullforce.io)
+- 🔭 Currently, I'm immersed in the development of Near Social's DevHub platform and Near's ecosystem.
+- 🌱 I'm also diving into Rust to broaden my skill set.
+- ⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](fullforce.io)
 
 <!--
 **Tguntenaar/Tguntenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
