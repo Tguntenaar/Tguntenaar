@@ -12,7 +12,7 @@ Here's a glimpse into what I'm up to lately:
 
 - 🔭 Currently, I'm immersed in the development of Near Social's DevHub platform and Near's ecosystem.
 - 🌱 I'm also diving into Rust to broaden my skill set.
-- ⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](fullforce.io)
+- ⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](https://www.fullforce.io)
 
 <!--
 **Tguntenaar/Tguntenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
