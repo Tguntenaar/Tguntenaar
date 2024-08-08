@@ -9,6 +9,8 @@ Here's a glimpse into what I have been up to lately:
 - 👯 With my two brothers I'm exploring opportunities in Computer Vision, 3D models and drones. Checkout [Zero Gravity](https://zgdrone.com/en/)
 - ⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](https://www.fullforce.io)
 
+![Race Of Sloths](https://badge.race-of-sloths.com/Tguntenaar)
+
 Outside of coding, I'm passionate about skydiving, and other extreme sports.
 
 
