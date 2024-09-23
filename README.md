@@ -5,7 +5,7 @@ I'm a tech enthusiast and full-stack native developer specializing in React Nati
 Here's a glimpse into what I have been up to lately:
 
 - 🔭 Currently, I'm developing Near Social's [DevHub](https://near.org/devhub.near/widget/app) platform and supporting Near's ecosystem.
-- 🌱 I'm also diving into Rust to broaden my skill set.
+- 🌱 We are working with React / Rust smart contracts and indexer to build this
 - 👯 With my two brothers I'm exploring opportunities in Computer Vision, 3D models and drones. Checkout [Zero Gravity](https://zgdrone.com/en/)
 - ⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](https://www.fullforce.io)
 
