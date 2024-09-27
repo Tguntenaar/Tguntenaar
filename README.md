@@ -6,7 +6,7 @@ Here's a glimpse into what I have been up to lately:
 
 - 🔭 Currently, I'm developing Near Social's [DevHub](https://near.org/devhub.near/widget/app) platform and supporting Near's ecosystem.
 - 🌱 We are working with React / Rust smart contracts and indexer to build this
-- 👯 With my two brothers I'm exploring opportunities in Computer Vision, 3D models and drones. Checkout [Zero Gravity](https://zgdrone.com/en/)
+- 👯 With my two brothers I'm exploring opportunities in Computer Vision, 3D models and drones. Checkout [Zero Gravity](https://zgdrone.com/en/) and [Powerspect Pro](https://www.powerspect.pro/)
 - ⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](https://www.fullforce.io)
 
 ![Race Of Sloths](https://badge.race-of-sloths.com/Tguntenaar)
