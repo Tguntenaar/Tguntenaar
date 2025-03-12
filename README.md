@@ -9,7 +9,11 @@ Here's a glimpse into what I have been up to lately:
 - 👯 With my two brothers, Boris and Olivier, we're exploring opportunities in Computer Vision, 3D models and drones technology. Checkout [Zero Gravity](https://zgdrone.com/en/) and [Powerspect Pro](https://www.powerspect.pro/)
 - ⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](https://www.fullforce.io)
 
-![Race Of Sloths](https://badge.race-of-sloths.com/Tguntenaar)
+[<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/Tguntenaar?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/Tguntenaar?theme=light">
+    <img alt="Shows profile picture on the Race-of-Sloths" src="https://badge.race-of-sloths.com/Tguntenaar">
+</picture>](https://race-of-sloths.com/profile/Tguntenaar)
 
 Outside of coding, I'm into skydiving and almost all other sports, currently following jiu jitsu classes at 10th planet.
 
