@@ -1,17 +1,20 @@
 ## Hi there! How are you doing? 👋
 
-I'm a tech enthusiast and full-stack developer. Whether you're interested in discussing the latest tech trends or exploring potential collaboration opportunities, feel free to reach out! I'm always eager to connect and learn from others.
+I'm Thomas
 
 Here's a glimpse into what I have been up to lately:
 
-- 🔭 Currently, I'm developing Near Social's [DevHub](https://near.org/devhub.near/widget/app) platform and supporting Near's ecosystem.
-- 🌱 We are working with React components stored on chain, smart contracts written in Rust and indexers for data accesibility.
-- 👯 With my two brothers, Boris and Olivier, we're exploring opportunities in Computer Vision, 3D models and drones technology. Checkout [Zero Gravity](https://zgdrone.com/en/) and [Powerspect Pro](https://www.powerspect.pro/)
-- ⚡ Last but not least I'm building a launchpad for the blockchain CoreDao in Nextjs called [FullForce](https://www.fullforce.io)
+- 🔭 Currently, I'm freelancing and developing web3/fintech mobile and web apps in react/react native.
+- 🌱 I've worked in vue, react, nextjs, nuxt.
+- 💬 I've worked with Google Cloud, AWS, Firebase, [Amplify](https://aws.amazon.com/amplify/), [nestjs](https://nestjs.com/), [expressjs](https://expressjs.com/), [flask](https://flask.palletsprojects.com/en/stable/), [Rocket](https://rocket.rs/).
+- 👨🏼‍💻 I've coded mostly in Typescript Python and Rust. Other languages are C, C++, Haskell, Go
+- 👯 With my two brothers, Boris and Olivier, we're exploring opportunities in Computer Vision, 3D models and drones technology.
+- ⚡ Checkout [Zero Gravity](https://zgdrone.com/en/) and [Powerspect Pro](https://www.powerspect.pro/)
 
-![Race Of Sloths](https://badge.race-of-sloths.com/Tguntenaar)
+Outside of coding, I'm also into travelling. Digital nomading the past two year.
+into sports, like swimming, soccer, running, biking, kickboxing, jiu jitsu, snowboarding, rowing and calisthenics.
 
-Outside of coding, I'm into skydiving and almost all other sports, currently following jiu jitsu classes at 10th planet.
+📫 Feel free to reach out to me at ✨<my_fullname>✨@gmail.com
 
 <!--
 **Tguntenaar/Tguntenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +27,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Tguntenaar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Thomas's GitHub stats](https://github-readme-stats-two-sable-52.vercel.app/api?username=Tguntenaar&theme=calm&show_icons=true)
+
+
+
+![Race Of Sloths](https://badge.race-of-sloths.com/Tguntenaar)
