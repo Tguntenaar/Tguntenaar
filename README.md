@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ![Thomas's GitHub stats](https://github-readme-stats-two-sable-52.vercel.app/api?username=Tguntenaar&theme=calm&show_icons=true)
 
+![https://github-readme-stats.vercel.app](https://github-readme-stats-two-sable-52.vercel.app/api/pin/?username=Tguntenaar&repo=Tguntenaar&cache_seconds=86400&theme=calm)
 
 
 ![Race Of Sloths](https://badge.race-of-sloths.com/Tguntenaar)
