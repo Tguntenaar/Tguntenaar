@@ -8,10 +8,10 @@ Here's a glimpse into what I have been up to lately:
 - 🌱 I've worked in vue, react, nextjs, nuxt.
 - 💬 I've worked with Google Cloud, AWS, Firebase, [Amplify](https://aws.amazon.com/amplify/), [nestjs](https://nestjs.com/), [expressjs](https://expressjs.com/), [flask](https://flask.palletsprojects.com/en/stable/), [Rocket](https://rocket.rs/).
 - 👨🏼‍💻 I've coded mostly in Typescript Python and Rust. Other languages are C, C++, Haskell, Go
-- 👯 With my two brothers, Boris and Olivier, we're exploring opportunities in Computer Vision, 3D models and drones technology.
+- 👯 With my two brothers, Boris and Olivier, we're exploring opportunities in Computer Vision, 3D models and drone technologies.
 - ⚡ Checkout [Zero Gravity](https://zgdrone.com/en/) and [Powerspect Pro](https://www.powerspect.pro/)
 
-Outside of coding, I'm also into travelling. Digital nomading the past two year.
+Outside of coding, I'm also into travelling. Digital nomading the past two years.
 into sports, like swimming, soccer, running, biking, kickboxing, jiu jitsu, snowboarding, rowing and calisthenics.
 
 📫 Feel free to reach out to me at ✨<my_fullname>✨@gmail.com
