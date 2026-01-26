@@ -2,7 +2,7 @@
 
 ### I'm Thomas
 
-- 🔭 Currently, I'm freelancing and developing  mobile and web apps
+- 🔭 I currently work as a freelance developer, building mobile and web applications.
 - 👨🏼‍💻 Typescript - Python - Rust - C - C++ and Go
 - ⚡ Checkout
   1. [Zero Gravity](https://zgdrone.com/en/)
