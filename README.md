@@ -2,8 +2,8 @@
 
 ### I'm Thomas
 
-- 🔭 I currently work as a freelance developer, building mobile and web applications.
-- 👨🏼‍💻 Typescript - Python - Rust - C - C++ and Go
+- 🔭 I currently work as a freelance consultant, building mobile, web applications, cloud solutions and anything AI.
+- 👨🏼‍💻 Typescript - Python - Rust - Go - Swift
 - ⚡ Checkout
   1. [Zero Gravity](https://zgdrone.com/en/)
   2. [College Contact](https://www.yourcollegecontact.com/)
