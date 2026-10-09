@@ -2,7 +2,8 @@
 
 ### I'm Thomas
 
-- 🔭 I currently work as a freelance consultant, building mobile, web applications, cloud solutions and anything AI.
+- 🔭 I currently work on https://opussounds.directory/
+- I was previously consultant, building mobile, web applications, cloud solutions and anything AI.
 - 👨🏼‍💻 Typescript - Python - Rust - Go - Swift
 - ⚡ Checkout
   1. [Zero Gravity](https://zgdrone.com/en/)
